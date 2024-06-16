@@ -1,0 +1,15 @@
+{
+  "name": "string-manipulation-lib",
+  "version": "1.0.0",
+  "description": "Обработка текстовых строк",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Text",
+    "string"
+  ],
+  "author": "maximes2004",
+  "license": "ISC"
+}
