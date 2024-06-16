@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Обработка текстовых строк",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximes2004/NodeJS_seminar_2_homework.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +15,9 @@
     "string"
   ],
   "author": "maximes2004",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximes2004/NodeJS_seminar_2_homework/issues"
+  },
+  "homepage": "https://github.com/maximes2004/NodeJS_seminar_2_homework#readme"
 }
